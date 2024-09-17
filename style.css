@@ -1,0 +1,4 @@
+a {
+    position: fixed;
+    right: 100px;  /* Mover 20px para a esquerda da borda direita da tela */
+}
