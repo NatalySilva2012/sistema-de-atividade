@@ -1,4 +1,18 @@
-a {
-    position: fixed;
-    right: 100px;  /* Mover 20px para a esquerda da borda direita da tela */
+h1{
+    color: rgba(160, 0, 0, 0.753);
+}
+
+.botões a {
+    font-size: 20px;
+    color: rgb(42, 63, 9);
+    text-decoration: none;
+    background-color: rgb(233, 192, 79);
+    padding: 10px;
+    border-radius: 10px;
+}
+.pag-inicial{
+    text-align: center;
+}
+.botões a:hover{
+    background-color: rgb(206, 159, 31);
 }
