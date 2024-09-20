@@ -12,7 +12,24 @@ h1{
 }
 .pag-inicial{
     text-align: center;
+    margin-top: 100px;
+    margin-bottom: 320px;
+    background-color: azure;
+    padding: 20px;
+    border-radius: 20px;
+
 }
+.pag-inicial img{
+    width: 250px;
+
+}
+
 .botões a:hover{
     background-color: rgb(206, 159, 31);
+}
+body {
+    background-image: linear-gradient(0deg, #204583, #87CEFA);
+    background-attachment: flex;
+    display: flex;
+    justify-content: center;
 }
