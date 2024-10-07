@@ -10,6 +10,19 @@ h1{
     padding: 10px;
     border-radius: 10px;
 }
+
+    .material-symbols-outlined{
+        font-size: 30px;
+        color: rgb(10, 0, 15);
+        text-decoration: none;
+       background-color: rgb(178, 201, 96);
+        padding: 8px;
+        border-radius: 100px;
+
+
+    }
+
+
 .pag-inicial{
     text-align: center;
     margin-top: 100px;
