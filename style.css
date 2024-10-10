@@ -59,3 +59,62 @@ body {
 .tela-direita{
     margin-top: 100px;
 }
+
+.custom-bar {
+    display: flex;
+    background-color: #ffd391;
+    padding: 5px;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+.custom-bar .icon {
+    color: white;
+    text-decoration: none; /*não ta dando certo*/
+    cursor: pointer;
+}
+
+
+
+
+h2{
+    color: #a51919;
+    margin-right: 800px;
+}
+
+.custom-bar .bot{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(161, 26, 26, 0.925);
+    border-radius: 10px;
+    padding: 10px;
+    
+    height: 25px;
+    margin-top: 10px;
+}
+.custom-bar .bot2{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(161, 26, 26, 0.925);
+    border-radius: 10px;
+    padding: 10px;
+    
+
+    width: 60px;
+    height: 25px;
+    margin-top: 10px;
+    
+}
+.custom-bar .bot3{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(161, 26, 26, 0.925);
+    border-radius: 10px;
+    padding: 10px;
+   
+
+    width: 60px;
+    height: 25px;
+    margin-top: 10px;
+}
