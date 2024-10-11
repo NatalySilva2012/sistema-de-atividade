@@ -80,41 +80,43 @@ body {
 
 h2{
     color: #a51919;
-    margin-right: 800px;
+    margin-right: 600px;
+    font-size: 20px;
 }
 
 .custom-bar .bot{
-    font-size: 18px;
+    font-size: 17px;
     color: rgb(255, 255, 255);
     background-color: rgba(161, 26, 26, 0.925);
     border-radius: 10px;
     padding: 10px;
-    
-    height: 25px;
+    text-decoration: none;
+    height: 17px;
     margin-top: 10px;
+    cursor: pointer;
 }
 .custom-bar .bot2{
-    font-size: 20px;
+    font-size: 17px;
     color: rgb(255, 255, 255);
     background-color: rgba(161, 26, 26, 0.925);
     border-radius: 10px;
     padding: 10px;
-    
-
+    cursor: pointer;  
+    text-align: center; 
     width: 60px;
-    height: 25px;
+    height: 17px;
     margin-top: 10px;
     
 }
 .custom-bar .bot3{
-    font-size: 20px;
+    font-size: 17px;
     color: rgb(255, 255, 255);
     background-color: rgba(161, 26, 26, 0.925);
     border-radius: 10px;
     padding: 10px;
-   
-
+    cursor: pointer;
+    text-align: center;
     width: 60px;
-    height: 25px;
+    height: 17px;
     margin-top: 10px;
 }
